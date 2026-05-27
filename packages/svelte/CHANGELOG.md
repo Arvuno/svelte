@@ -254,7 +254,7 @@
 
 - fix: don't access inert block effects ([#17882](https://github.com/sveltejs/svelte/pull/17882))
 
-- fix: handle asnyc updates within pending boundary ([#17873](https://github.com/sveltejs/svelte/pull/17873))
+- fix: handle async updates within pending boundary ([#17873](https://github.com/sveltejs/svelte/pull/17873))
 
 - perf: avoid re-traversing the effect tree after `$:` assignments ([#17848](https://github.com/sveltejs/svelte/pull/17848))
 
